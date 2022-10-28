@@ -108,3 +108,12 @@ Please document your code or modify this `README.md` file to describe your choic
 
 
 **Thank you for your time and good luck! 🍀**
+
+
+## How to compile and run the solution
+
+` yarn install `
+
+` yarn compile `
+
+` yarn test `
